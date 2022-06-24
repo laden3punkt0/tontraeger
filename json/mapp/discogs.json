@@ -1,0 +1,192 @@
+{
+  "4-Track Cartridge": {
+    "abbr": "4-Trk"
+  },
+  "8-Track Cartridge": {
+    "abbr": "8-Trk"
+  },
+  "Acetate": {
+    "abbr": "Acetate"
+  },
+  "Betacam": {
+    "abbr": "Betacam"
+  },
+  "Betamax": {
+    "abbr": "Beta",
+    "type": "Betacam"
+  },
+  "Blu-ray": {
+    "abbr": "Blu-ray",
+    "type": "BlueRay"
+  },
+  "Blu-ray-R": {
+    "abbr": "Blu-ray-R",
+    "type": "BlueRay"
+  },
+  "CD": {
+    "abbr": "CD"
+  },
+  "CDV": {
+    "abbr": "CDV",
+    "type": "CD"
+  },
+  "CDr": {
+    "abbr": "CDr",
+    "type": "CD"
+  },
+  "Cartrivision": {
+    "abbr": "Cartrivision"
+  },
+  "Cassette": {
+    "abbr": "Cass"
+  },
+  "Cylinder": {
+    "abbr": "Cyl"
+  },
+  "DAT": {
+    "abbr": "DAT"
+  },
+  "DC-International": {
+    "abbr": "DC-International"
+  },
+  "DCC": {
+    "abbr": "DCC"
+  },
+  "DVD": {
+    "abbr": "DVD"
+  },
+  "Diamond Disc": {
+    "abbr": "Edison Disc"
+  },
+  "DVDr": {
+    "abbr": "DVDr",
+    "type": "DVD"
+  },
+  "Digital VHS": {
+    "abbr": "D-VHS",
+    "type": "VHS"
+  },
+  "Edison Disc": {
+    "abbr": "Edison Disc"
+  },
+  "Elcaset": {
+    "abbr": "Elcaset"
+  },
+  "Film Reel": {
+    "abbr": "Film"
+  },
+  "Flexi-disc": {
+    "abbr": "Flexi"
+  },
+  "Floppy Disk": {
+    "abbr": "Floppy"
+  },
+  "HD DVD": {
+    "abbr": "HD DVD",
+    "type": "DVD"
+  },
+  "HD DVD-R": {
+    "abbr": "HD DVD-R",
+    "type": "DVD"
+  },
+  "HDCAM": {
+    "abbr": "HDCAM",
+    "type": "Betacam"
+  },
+  "HitClips": {
+    "abbr": "HitClips"
+  },
+  "Laserdisc": {
+    "abbr": "Laserdisc"
+  },
+  "Lathe Cut": {
+    "abbr": "Lathe"
+  },
+  "MVD": {
+    "abbr": "MVD"
+  },
+  "Microcassette": {
+    "abbr": "M/cass"
+  },
+  "Mighty Tiny": {
+    "abbr": "Mighty Tiny"
+  },
+  "MiniDV": {
+    "abbr": "MiniDV"
+  },
+  "Minidisc": {
+    "abbr": "MD"
+  },
+  "NT Cassette": {
+    "abbr": "NT"
+  },
+  "Pathé Disc": {
+    "abbr": "Pathé Disc"
+  },
+  "PlayTape": {
+    "abbr": "PlayTape"
+  },
+  "Pocket Rocker": {
+    "abbr": "Pocket Rocker"
+  },
+  "RCA Tape Cartridge": {
+    "abbr": "RCA Tape Cartridge"
+  },
+  "Reel-To-Reel": {
+    "abbr": "Reel"
+  },
+  "Revere Magnetic Stereo Tape Ca": {
+    "abbr": "Revere Magnetic Stereo Tape Ca"
+  },
+  "SACD": {
+    "abbr": "SACD",
+    "type": "CD"
+  },
+  "Sabamobil": {
+    "abbr": "Sabamobil"
+  },
+  "SelectaVision": {
+    "abbr": "S/Vision"
+  },
+  "Shellac": {
+    "abbr": "Shellac"
+  },
+  "Sopic": {
+    "abbr": "Sopic"
+  },
+  "Super VHS": {
+    "abbr": "S-VHS",
+    "type": "VHS"
+  },
+  "Tefifon": {
+    "abbr": "Tefifon"
+  },
+  "U-matic": {
+    "abbr": "Umatic"
+  },
+  "UMD": {
+    "abbr": "UMD"
+  },
+  "Ultra HD Blu-ray": {
+    "abbr": "Ultra HD Blu-ray",
+    "type": "Blu-ray"
+  },
+  "VHD": {
+    "abbr": "VHD"
+  },
+  "VHS": {
+    "abbr": "VHS"
+  },
+  "Video 2000": {
+    "abbr": "V2000"
+  },
+  "Video8": {
+    "abbr": "Video8"
+  },
+  "Vinyl": {
+    "abbr": "Vinyl"
+  },
+  "Wire Recording": {
+    "abbr": "Wire"
+  }
+}
