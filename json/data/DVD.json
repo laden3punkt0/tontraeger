@@ -1,0 +1,15 @@
+{
+  "carrier": {
+    "shape": "circle",
+    "depth": 1.2,
+    "diameter": 120,
+    "weight": 15.9,
+    "volume": 13360
+  },
+  "wrapper": {
+    "shape": "rect",
+    "depth": 15,
+    "height": 190,
+    "width": 135
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "carrier": {
+    "shape": "square",
+    "depth": 3,
+    "length": 90
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "carrier": {
+    "shape": "rect",
+    "depth": 25,
+    "height": 187,
+    "width": 102,
+    "weight": 232
+  },
+  "wrapper": {
+    "shape": "rect",
+    "depth": 29,
+    "height": 200,
+    "width": 120,
+    "weight": 25
+  }
+}

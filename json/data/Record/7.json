@@ -1,0 +1,12 @@
+{
+  "carrier": {
+    "shape": "circle",
+    "depth": 2,
+    "diameter": 175
+  },
+  "wrapper": {
+    "shape": "square",
+    "depth": 6,
+    "length": 178
+  }
+}
